@@ -137,20 +137,13 @@
     ├── scripts/
     │   └── README.md
     └── references/
-        ├── research/
-        │   ├── 01-writings.md
-        │   ├── 02-conversations.md
-        │   ├── 03-expression-dna.md
-        │   ├── 04-external-views.md
-        │   ├── 05-decisions.md
-        │   └── 06-timeline.md
-        └── sources/
-            ├── articles/
-            │   └── .gitkeep
-            ├── books/
-            │   └── .gitkeep
-            └── transcripts/
-                └── .gitkeep
+        └── research/
+            ├── 01-writings.md
+            ├── 02-conversations.md
+            ├── 03-expression-dna.md
+            ├── 04-external-views.md
+            ├── 05-decisions.md
+            └── 06-timeline.md
 ```
 
 
